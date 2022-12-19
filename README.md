@@ -2,9 +2,10 @@
 Microserviço de notificações (simuladas)
 
 ## Framework e Libs utilizadas
-- NestJS - https://nestjs.com/
-- Prisma - with SQLite - https://www.prisma.io/
-- Jest   - https://jestjs.io/
+- NestJS  - https://nestjs.com/
+- Prisma  - with SQLite - https://www.prisma.io/
+- Jest    - https://jestjs.io/
+- KafkaJs - https://kafka.js.org/
 
 ## Skills
 - Nest
@@ -12,6 +13,8 @@ Microserviço de notificações (simuladas)
   - Service
   - Module
   - Decorators
+  - Nest Microsservices
+  - Env values
 - Factory 
 - Repository 
 - Mapper
